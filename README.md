@@ -14,6 +14,7 @@ Repository ini dibuat sebagai tugas Bahasa pemrogramman
 ! Kita melakukan penanganan kesalahan NameError lalu run dengan cara ketik python Praktikum.py di terminal
 
 Maka hasilnya sebagai berikut :
+
 <img width="788" alt="Screenshot 2022-12-19 152426" src="https://user-images.githubusercontent.com/115815582/208386303-81adb28c-9f94-4e71-8b4d-5184990c6e71.png">
 
 3. Masih difile yang sama yaitu Praktikum.py lalu inputkan codingan sebagai berikut :
